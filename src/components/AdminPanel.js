@@ -515,7 +515,7 @@ const AdminPanel = () => {
                         />
                         <div>
                           <h6 className="mb-0">لورم ایپسوم</h6>
-                          <p className="text-muted mb-0">lorem_ipsum@</p>
+                          <p className="text-muted mb-0">lorem _ipsum@</p>
                         </div>
                       </div>
                       <div className="d-flex align-items-center my-4">
